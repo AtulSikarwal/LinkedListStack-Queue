@@ -4,7 +4,7 @@
     {   
         public static void Main(String[] args)
         {
-            Linkedlist Link = new Linkedlist();
+            
             Node node1 = new Node(70);
             Node node2 = new Node(56);
             Node node3 = new Node(30);
@@ -13,16 +13,7 @@
 
 
 
-          //  Stack
-            //Stack stack = new Stack();
-
-            //stack.Push(node1);
-            //stack.Push(node2);
-            //stack.Push(node3);
-            //stack.DisplayStack();
-            //stack.Top();
-            //stack.DisplayStack();
-
+  
 
 
 
